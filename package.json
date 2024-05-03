@@ -32,7 +32,7 @@
 		"cpx": "^1.5.0",
 		"cross-env": "^6.0.3",
 		"firebase-functions-test": "^0.1.6",
-		"firebase-tools": "^6.1.0",
+		"firebase-tools": "^13.6.0",
 		"rimraf": "^2.6.0"
 	}
 }
